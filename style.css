@@ -12,9 +12,19 @@ h1 {
     max-width: 500px;
     margin: auto;
     display: block;
+    margin-bottom: 3rem;
 }
 
 #content {
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
+}
+
+img {
+    max-width: 100%;
+}
+
+.smaller-image {
+    max-width: 20%;
+    height: 10rem;
 }
